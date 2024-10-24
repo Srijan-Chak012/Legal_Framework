@@ -1,0 +1,44 @@
+MANU/SC/0163/2011
+IN THE SUPREME COURT OF INDIA
+Civil Appeal No. 7796 of 1997
+Decided On: 01.03.2011
+Appellants: GVK Inds. Ltd. and Ors.
+Vs.
+Respondent: The Income Tax Officer and Ors.
+Hon'ble Judges/Coram:
+S.H. Kapadia, C.J., B. Sudershan Reddy, K.S. Panicker Radhakrishnan, S.S. Nijjar and Swatanter Kumar, JJ.
+Counsels:
+For Appellant/Petitioner/Plaintiff: S. Ganesh, Sr. Adv., U.A. Rana, Mrinal Majumdar and Devina Seghal, Advs. for Gagrat and Co.
+For Respondents/Defendant: G.E. Vahanvati, AG, Rupesh Kumar, Arijit Prasad, Devadatt Kamat, Rohit Sharma, Mihir Chatterjee, Nishanth Patil, Naila Jung, Anoopam Prasad, B.V. Balaram Das and Sushma Suri, Advs.
+Subject: Constitution
+Catch Words
+Mentioned IN
+Acts/Rules/Orders:
+Constitution Of India - Article 1, Constitution Of India - Article 14, Constitution Of India - Article 2, Constitution Of India - Article 245, Constitution Of India - Article 245(1), Constitution Of India - Article 245(2), Constitution Of India - Article 246, Constitution Of India - Article 248, Constitution Of India - Article 249, Constitution Of India - Article 250, Constitution Of India - Article 253, Constitution Of India - Article 260, Constitution Of India - Article 368, Constitution Of India - Article 51; Income Tax Act, 1961 - Section 9(1)(i), Income Tax Act, 1961 - Section 9(1)(vii), Income Tax Act, 1961 - Section 9(1)(vii)(b)
+Relevant Section:
+INCOME-TAX ACT, 1961 - Section 9(1); Constitution of India - Article 14, Constitution of India - Article 51, Constitution of India - Article 245
+Cases Referred:
+Electronics Corporation of India Ltd. v. Commissioner of Income Tax and Anr. MANU/SC/0331/1989 : (1989) (2) SCC 642; Ashbury v. Ellis (1893) A.C. 339; Emmanuel Mortensen v. David Peters (1906) 8 F (J.) 93; Croft v. Dunphy (1933) A.C. 156; British Columbia Electric Railway Co. Ltd. v. The King (1946) A.C. 527; Governor General in Council v. Raleigh Investment Co. Ltd. (1944) 12 ITR 265; Wallace Brothers and Co. v. Commissioner of Income Tax, Bombay MANU/PR/0011/1948 : (1948) 16 ITR 240; A.H. Wadia v. Commissioner of Income Tax, Bombay MANU/FE/0004/1948 : (1949) 17 ITR 63; State v. Narayandas Mangilal Dayame MANU/MH/0023/1958 : AIR 1958 Bom 68; Rao Shiv Bahadur v. State of Vindhya Pradesh AIR 1953 SC 394; Clark v. Oceanic Contractors Inc. (1983) A.C. 130; Shrikant Bhalchandra v. State of Gujarat (1994) 5 SCC 459; State of A.P. v. N.T.P.C. MANU/SC/0356/2002 : (2002) 5 SCC 203; Keshavanadna Bharati v. State of Kerala (1973) 4 SCC 225; I.R. Coelho v. State of Tamil Nadu MANU/SC/0595/2007 : (2007) 2 SCC 1; Trustees Executors and Agency Co. Ltd. v. Federal Commissioner of Taxation (1933) 49 CLR 220; In Re: Berubari Union and Exchange of Enclaves AIR 1960 SC 845; Woods v. Cloyd W. Miller Co. 333 U.S. 138
+Prior History / High Court Status:
+From the Judgment and Order dated 02.05.1997 of the High Court of Andhra Pradesh at Hyderabad in Writ Petition No. 6866 of 1995 (MANU/AP/0210/1997)
+Citing Reference:
+
+
+
+Discussed
+  3
+
+Mentioned
+  15
+
+Industry: Services Sector
+Case Category:
+DIRECT TAXES MATTERS - DEDUCTIONS / EXEMPTIONS
+JUDGMENT
+B. Sudershan Reddy, J.
+1. In any federal or quasi federal nation-state, legislative powers are distributed territorially, and legislative competence is often delineated in terms of matters or fields. The latter may be thought of as comprising of aspects or causes that exist independently in the world, such as events, things, phenomena (howsoever commonplace they may be), resources, actions or transactions, and the like, that occur, arise or exist or may be expected to do so, naturally or on account of some human agency, in the social, political, economic, cultural, biological, environmental or physical spheres. The purpose of legislation would be to seek the exertion of the State power to control, modulate, transform, eliminate or engender such aspects or causes or the effects or consequences of such aspects or causes. While the purpose of legislation could be seen narrowly or purely in terms of intended effects on such aspects or causes, obviously the powers have to be exercised in order to enhance or protect the interests of, the welfare of, the well-being of, or the security of the territory, and the inhabitants therein, for which the legislature has been charged with the responsibility of making laws. Paraphrasing President Abraham Lincoln, we can say that State and its government, though of the people, and constituted by the people, has to always function "for" the people, indicating that the mere fact that the state is organized as a democracy does not necessarily mean that its government would always act "for" the people. Many instances of, and vast potentialities for, the flouting of that norm can be easily visualized. In Constitutions that establish nation-states as sovereign democratic republics, those expectations are also transformed into limitations as to how, in what manner, and for what purposes the collective powers of the people are to be used.
+2. The central constitutional themes before us relate to whether the Parliament's powers to legislate, pursuant to Article 245, include legislative competence with respect to aspects or causes that occur, arise or exist or may be expected to do so, outside the territory of India. It is obvious that legislative powers of the Parliament incorporate legislative competence to enact laws with respect to aspects or causes that occur, arise or exist, or may be expected to do so, within India, subject to the division of legislative powers as set forth in the Constitution. It is also equally obvious and accepted that only Parliament may have the legislative competence, and not the state legislatures, to enact laws with respect to matters that implicate the use of state power to effectuate some impact or effect on aspects or causes that occur, arise or exist or may be expected to do so, outside the territory of India.
+3. Two divergent, and dichotomous, views present themselves before us. The first one arises from a rigid reading of the ratio in Electronics Corporation of India Ltd. v. Commissioner of Income Tax and Anr. MANU/SC/0331/1989 : (1989) (2) SCC 642-646, ("ECIL") and suggests that Parliaments powers to legislate incorporate only a competence to enact laws with respect to aspects or causes that occur, arise or exist, or may be expected to do so, solely within India. A slightly weaker form of the foregoing strict territorial nexus restriction would be that the Parliament's competence to legislate with respect to extraterritorial aspects or causes would be constitutionally permissible if and only if they have or are expected to have significant or sufficient impact on or effect in or consequence for India. An even weaker form of the territorial nexus restriction would be that as long as some impact or nexus with India is established or expected, then the Parliament would be empowered to enact legislation with respect to such extra-territorial aspects or causes. The polar opposite of the territorial nexus theory, which emerges also as a logical consequence of the propositions of the learned Attorney General, specifies that the Parliament has inherent powers to legislate "for" any territory, including territories beyond India, and that no court in India may question or invalidate such laws on the ground that they are extraterritorial laws. Such a position incorporates the views that Parliament may enact legislation even with respect to extraterritorial aspects or causes that have no impact on, effect in or consequence for India, any part of it, its inhabitants or Indians, their interests, welfare, or security, and further that the purpose of such legislation need not in any manner or form be intended to benefit India.
+4. Juxtaposing the two divergent views outlined above, we have framed the following questions:
+(1) Is the Parliament constitutionally restricted from enacting legislation with respect to extra-territorial aspects or causes that do not have, nor expected to have any, direct or indirect, tangible or intangible impact(s) on, or effect(s) in, or consequences for: (a) the territory of India, or any part of India; or (b) the interests of, welfare of, wellbeing of, or security of inhabitants of India, and Indians?
+(2) Does the Parliament have the powers to legislate "for" any territory, other than the territory of India or any part of it?

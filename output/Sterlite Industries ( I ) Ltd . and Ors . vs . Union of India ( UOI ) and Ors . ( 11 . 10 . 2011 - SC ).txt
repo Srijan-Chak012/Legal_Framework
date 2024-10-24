@@ -1,0 +1,73 @@
+MANU/SC/1220/2011
+IN THE SUPREME COURT OF INDIA
+Special Leave Petition (C) Nos. 28116-28123 of 2010
+Decided On: 11.10.2011
+Appellants: Sterlite Industries (I) Ltd. and Ors.
+Vs.
+Respondent: Union of India (UOI) and Ors.
+Hon'ble Judges/Coram:
+R.V. Raveendran and A.K. Patnaik, JJ.
+Subject: Environment
+Catch Words
+Mentioned IN
+Prior History:
+From the Judgment and Order dated 28/09/2010 in WP No. 15501/1996, WP No. 15502/1996, WP No. 5769/1997, WP No. 16861/1998, WMP No. 8044/1999, WMP No. 8045/1999, WMP No. 8046/1999, WP No. 15503/2006 of the High Court of Judicature at Madras
+Industry: Mines and Minerals
+ORDER
+A.K. Patnaik, J.
+1. We have heard Mr. C.A. Sundram, learned Counsel for the Petitioners, Mr. Vaiko in-person for Respondent No. 1, Mr. V. Prakash, learned Counsel for the Respondent No. 2, Mr. Guru Krishna Kumar, learned Additional A.G. for the Government of Tamil Nadu, Mr. Subramanium Prasad, learned Counsel for the Tamil Nadu Pollution Control Board, and Mr. Vijay Panjwani, learned Counsel for the Central Pollution Control Board.
+2. The High Court has by the impugned judgment inter alia directed that the industrial unit of the Petitioner be closedown immediately because of the environmental pollution caused by the industrial unit. On 01.10.2010, this Court directed that the matter be listed on 18.10.2010 and stayed the impugned judgment of the High Court till then. On 18.10.2010, the Court issued notice and continued the interim stay. The Court has continued the interim stay from time to time.
+3. When the matter was taken up on 25.02.2011, the Court after hearing learned Counsel for the parties was of the view that an independent assessment of the present situation and condition of the industrial unit of the Petitioners, and its effect with reference to environmental pollution by National Environmental Engineering Research Institute (NEERI), after a joint inspection with the officials of Central Pollution Control Board, Tamil Nadu Pollution Control Board and the PIL Petitioners before the High Court, will help the Court to arrive at a decision and accordingly directed NEERI to make a pollution and environmental impact assessment and submit its report. Accordingly, NEERI carried out the inspection during 6th to 8th April, 2011 and 19th to 22nd April, 2011 and submitted its report.
+4. On 18.07.2011, the Court directed the Tamil Nadu Government as also the Tamil Nadu Pollution Control Board to submit their comments/suggestions with reference to the NEERI report so that the Court can have a clear view about the existing position. On 25.08.2011, the Court after perusing the Status Report of the Tamil Nadu Pollution Control Board directed the Tamil Nadu Pollution Control Board to file a synopsis specifying the deficiencies with reference to the NEERI report and suggest control measures that should be taken by the Petitioners so that the Court can consider the direction to be issued for remedial measures which can be monitored by the Tamil Nadu Pollution Control Board.
+5. The Tamil Nadu Pollution Control Board has filed along with an affidavit dated 30.08.2011, a Chart of deficiencies and measures to be implemented by the Petitioners-industry which is to the following effect:
+Sl.No
+Deficiency
+Measures Suggested
+I
+To improve the emission control efficiency in the process section
+(1) Hoods with extraction system are to be installed for control efficiency in the process collection of fugitive emission at (i) smelter lance, (ii) smelter feed port, (iii) rotary section holding furnace-slag granulation & (iv) matte tapping and to be connected to the control measures. In view of the above additional emission load, the emission control measures of scrubbing system has to be enhanced.
+(2) One bag house at smelter is to be installed prior to scrubber, to control dust emission.
+(3) One bag house at converter is to be installed prior to scrubber, to control dust emission.
+(4) Regulative measure for periodical soot blowing operation in waste heat recovery boiler is to be implemented to prevent sudden emission load of soot particulates.
+II
+To improve fugitive emission control
+(1) Ducts to collect all the fugitive emission and control measure of flue gas desulphurization system consisting of bag filter and 2 stage lime scrubber are to be provided, as per the engineering study carried out.
+(2) Gypsum conveyor belt is to be made fully closed so as to prevent fugitive emissions.
+(3) The unpaved roads within the industry premises should be pave to control the dust due to movement of vehicles.
+(4) The frequency of water sprinkling on roads is to be increased to 4 times per shift to reduce the re-suspended dust particles due to movement of vehicles.
+(5) Permanent water sprinklers are to be provided at gypsum pond area and roc phosphate area.
+III
+To improve effluent treatment operation
+(1) The chemical treatment comprising coagulation-flocculation and settling is to be operated effectively to optimize the treatment efficiency so as to improve the performance of fluoride remove.
+(2) The existing reverse osmosis plant is to be operated to the maximum capacity of 1,600 kiloliters per day and maintained so as to recover, recycle and reuse the permeate.
+(3) Iron removal plant as a pretreatment facility to reverse osmosis system is to be installed for sustaining the membrane life and achieving optimum membrane performance.
+IV
+To improve disposal of rejects arising from effluent treatment Plant
+(1) The evaporation system along with drying facility must be expanded to cope up with the capacity of the reverse osmosis plant and improved to generate the concentrate in solid form.
+(2) The reverse osmosis rejects stored in the temporary storage ponds must be taken for concentration and drying followed by disposal in secured landfill facility.
+(3) The temporary storage ponds provided for disposal of reverse osmosis rejects must be removed, in view of capacity augmentation of evaporator system.
+V
+To improve raw material storage and handling
+(1) The raw material of copper concentrate is to be stored in a closed shed and received & transferred in closed conveyor system.
+VI
+To improve storm water drainage and collection system
+(1) The deposited silt in the storm water drains is to be removed and disposed off in secured landfill facility and this is to be practiced regularly to prevent any pollutant carryover and to avoid water logging.
+(2) Additional rainwater collection reservoir with storage capacity of 30,000-50,000 cubic meters, is to be provided to prevent discharge of runoff from the critical storage/process plant areas, during peak precipitation, taking into consideration of the recent updated meteorological data and maximum industrial utilization.
+VII
+To improve solid waste disposal
+(1) The sold waste of slag is to be stored within the stipulated 10 hectares of land with a restricted stacking height of 12 meters so as to adhere with the safe load bearing capacity of 25 metric ton per square meter of the underlying soil/land in that area.
+(2) The slag is to be disposed for beneficial uses, such as road formation, shot blasting, abrasive production, cement aggregate making and other relevant areas of application, with approval from concerned agencies. The monthly disposal must be at least 50% more than the monthly generation quantities of both slag and gypsum.
+VIII
+To improve monitoring of air quality, effluent and water consumption
+(1) Additional electromagnetic flow meters (12 Nos. ) are to be provided to assess (i) raw water consumption (4 Nos. ), (ii) rain water consumption (3 Nos. ) and (iii) waste water generation & waste water reuse (5 Nos. )
+(2) Online pH meter is to be provided in reaction tanks of the effluent treatment plants to ensure optimum pH for effective precipitation of the pollutants.
+(3) Fluoride concentration in groundwater at gypsum storage ponds is to be regularly monitored, recorded and ensured with the baseline fluoride concentration.
+(4) Health monitoring of the people living in the nearby villages is to be carried out at least once every six months.
+IX
+To improve greenbelt development
+(1) Around 26 hectares of land within the industry premises is to be earmarked and developed as greenbelt, to the width of 25 meters.
+(2) Greenbelt cover should be improved around the periphery of the smelter plant, slag yard, gypsum pond and secured landfill facility to act as barrier to control secondary fugitive emissions.
+(3) The native species (achrassapota, azadirachtaindica, cassia fistula, cassia slamea, casuarinas equisetifolia, eucalyptus sp. Flcusbenghalensis, ficuleligiosa, millingtoniahortensis, oringa sp. Peltophorumferrugineum, polyathialingifclia, pongarniapinnata, prospisjuliflora, tabefuiarosea, terminaliacatappa, thespesiapopulnea, etc.) should be planted in new areas of greenbelt cover.
+  6. We direct the Tamil Nadu Pollution Control Board to issue directions, in exercise of its powers under the Air (Prevention and Control of Pollution) Act, 1981 and Water (Prevention and Control of Pollution) Act, 1974, to the Petitioners-industry to carry out the aforesaid measures and remove the aforesaid deficiencies within such time as it thinks reasonable and proper. The directions will be issued by the Tamil Nadu Pollution Control Board within two weeks from today. The matter will be listed in the first week of January, 2012 and the interim stay of the impugned judgment will continue till then.
+
+© Manupatra Information Solutions Pvt. Ltd.

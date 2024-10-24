@@ -1,0 +1,35 @@
+MANU/SC/1971/1995
+IN THE SUPREME COURT OF INDIA
+Decided On: 06.09.1995
+Appellants: Hindustan Petroleum Corpn. Ltd.
+Vs.
+Respondent: Union of India (UOI)
+Hon'ble Judges/Coram:
+A.M. Ahmadi, C.J., S.C. Sen and K.S. Paripoornan, JJ.
+Subject: Excise
+Catch Words
+Mentioned IN
+Disposition:
+In Favour of Assessee
+Cases Referred:
+A.P. SEB v. CCE, MANU/SC/0643/1994; Indian Cable Co. Ltd. v. CCE, MANU/SC/0012/1995
+Case Note:
+Excise - Marketability - High Court disposed of case filled by Appellant without going into question of marketability of Burner Fuel Oil captively consumed by Appellant - Hence, this Appeal - Whether, Burner Fuel Oil captively consumed by Appellant for heating purposes in its own refinery was marketable - Held, fuel oil or furnace oil consists largely of residues from crude oil distillation blended with suitable fractions to obtain required viscosity, basis on which fuel oils were sold - Fuel oils could solidify under storage conditions and, therefore, it was usual to specify a pour point for oil - Thus, fuel oil or furnace oil consists of residues which were primarily used in steam boilers in power and industrial plants and were distinguished from commercial fuel oils which were usually blended with other petroleum fractions - Hence, Burner Fuel Oil captively consumed by Appellant for heating purposes in its own refinery was not marketable - Appeal allowed.
+Ratio Decidendi:
+"Residue that remains is not marketable in the condition in which it is, unless it was subjected to further processing."
+Citing Reference:
+
+
+Discussed
+  1
+
+Dissented
+  1
+
+Industry: Oil and Gas
+ORDER
+1. On 30th March, 1995, a two-judge Bench of this Court passed an order after hearing learned Counsel representing the parties for sometime that the question of marketability of Burner Fuel Oil captively consumed by the appellant for heating purposes in its own refinery had not been gone into specifically by the High Court even though urged by the appellant. It was perhaps because the concept of marketability had not fully evolved when the High Court disposed of the case that it did not go into that question. That is because the High Court placed emphasis on some other aspects of the matter Which have now become academic.
+2. Ordinarily, this Court would have remitted the matter to the fact finding authority, but finding that the High Court judgment was of the year 1972; it was disinclined to do so keeping the interest of the parties in mind. It was, therefore, ordered that this Court itself would go into the question of marketability and for that purpose gave an opportunity to the parties to place material in support of their respective contentions before the Court on the question of marketability. Pursuant to the above order, on behalf of the appellant the affidavit of one Kotagiri Murali, a Chemical Engineering Graduate from Andhra University, Waltair (Visakhapatnam), an employee of the appellant has been filed. So far as the Revenue is concerned/although under the Order of 30th March, 1995 six weeks time was granted which was later ex-tended by another four weeks, no affidavit has been filed. We have, therefore, to go by the affidavit filed on behalf of the appellant as that is the only material placed before this Court pursuant to the order of 30th March, 1995.
+3. In the affidavit, it is averred that the refinery commenced operations in 1957 and during the relevant period from 1957 to 1963, the crude oil brought into the said refinery for processing, was predominantly from Iran and Minas (Indonesia). According to the deponent, the crude oil was heated to the required temperature and flashed into a tower where various temperature gradients are maintained so that at the respective temperatures, corresponding boiling range products were condensed and removed. The products so removed were further processed and then cleared into the market. After their removal what remained in the distillation column was a residue with a high viscosity of over 2000 Centistokes. This material, which is described as waste material, the deponent contends, could not be used as such and had, therefore, to be used for burning within the refinery, which was the only convenient method for disposing of this bulk residuary material. This was also necessary for maintaining environmental conditions. Even for using this waste material for burning within the refinery, the entire stock had to be kept and maintained at a high temperature ranging between 110 and 120 Degrees Centigrade for otherwise it would solidify. This residuary material says the deponent, could not be used as a substitute for other marketable fuels. To make this residue marketable as a fuel it would be necessary to subject it to further processing and blending with low viscosity stock, such as diesel. Therefore, without further processing and blending, the residuary material could not be equated with marketable fuel. It is contended that then residuary material is described as Burner Fuel Oil for want of better nomenclature.
+4. It is clear from this affidavit that after the crude oil is processed and the marketable fuel oils are taken out the residue that remains is not marketable in the condition in which it is unless it is subjected to further processing as stated earlier and since it is not marketable and there are no takers of this waste material, the same is perforce used by the appellant in its furnace for heating purposes. The question regarding the concept of marketability was considered by this Court in A.P. State Electricity Board v. C.C.E., Hyderabad MANU/SC/0643/1994 : 1994ECR349(SC) , and was reiterated in Indian Cable Company Ltd., Calcutta v. Collector of Central Excise, Calcutta and Ors. MANU/SC/0012/1995 : 1994ECR20(SC) , in which after extracting the relevant observations from the former case, the Court proceeded to observe as under :
+Marketability is a decisive test for dutiability. It only means 'saleable', or 'suitable for sale'. It need not be in fact 'marketed'. The article should be capable of being sold or being sold to consumers in the market, as it is without anything more.

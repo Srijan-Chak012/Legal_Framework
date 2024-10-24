@@ -1,0 +1,49 @@
+MANU/SC/1034/2010
+IN THE SUPREME COURT OF INDIA
+Criminal Appeal No. 1043 of 2002
+Decided On: 07.12.2010
+Appellants: Balasaheb
+Vs.
+Respondent: State of Maharashtra and Ors.
+Hon'ble Judges/Coram:
+H.S. Bedi and C.K. Prasad, JJ.
+Counsels:
+For Appellant/Petitioner/Plaintiff: M.Y. Deshmukh and Shivaji M. Jadhav, Advs.
+For Respondents/Defendant: Manisha Pitale, Sanjay V. Kharde, Asha Gopalan Nair and Vimal Chandra S. Dave, Advs.
+Subject: Criminal
+Subject: Law of Evidence
+Catch Words
+Mentioned IN
+Acts/Rules/Orders:
+Code of Criminal Procedure, 1973 (CrPC) - Section 161; Code of Criminal Procedure, 1973 (CrPC) - Section 161(1); Constitution Of India - Article 20(3); Indian Evidence Act, 1872 - Section 132
+Relevant Section:
+Indian Evidence Act, 1872 - Section 132; Code of Criminal Procedure, 1973 (CrPC) - Section 161; Code of Criminal Procedure, 1973 (CrPC) - Section 161(1); Constitution of India - Article 20(3)
+Cases Referred:
+Ramanal Bhogilal Shah and Anr. v. D.K. Guha and Ors. MANU/SC/0264/1973 : (1973) 1 SCC 696; State of Bombay v. Kathi Kalu Oghad MANU/SC/0134/1961 : AIR 1961 SC 1808; Raja Narayanlal Bansilal v. Maneck Phiroz Mistry and Anr. MANU/SC/0016/1960 : AIR 1961 SC 29; Nandini Satpathy v. P.L. Dani and Anr. MANU/SC/0139/1978 : (1978) 2 SCC 424
+Prior History:
+From the judgement and Order Dated 27.04.2001 of the High Court of Judicature of Bombay, Bench at Aurangabad in Criminal Revision Application No. 268 of 2001
+Disposition:
+In Favour of State
+Citing Reference:
+
+Affirmed
+  1
+
+Discussed
+  2
+
+Relied On
+  1
+
+Case Note:
+Criminal Procedure Code, 1973-- Section 161--Constitution of India, 1950--Article 20(3)--Protection under--Invoking of--Held--For invoking Article 20(3) of Constitution a formal accusation against the person must exist--Since appellant not an accused in police case but a witness whose statement was recorded under Section 161 Cr.P.C. is not entitled to blanket protection. [Para--5, 6 and 9]
+
+JUDGMENT
+C.K. Prasad, J.
+1. The short but important question of law which falls for our determination in the present appeal is as to whether protection under Article 20(3) of the Constitution is available to the Appellant, who though not an accused in the police case in which he has been asked to depose as a witness but figures as an accused in the complaint case filed later on in relation to the same incident.
+2. Bereft of unnecessary details, the facts necessary for determination of the aforesaid question are that informant Charudatta Pawar is alleged to have been assaulted by four persons in a Hotel in the night between 25th and 26th of April, 1996 and on the basis of the report given by him CR No. 102/1996 was registered at Chalisgaon Police Station. During the investigation the Appellant figured as a witness and his statement was recorded under Section 161 of the Code of Criminal Procedure. After investigation Chalisgaon Police Station submitted chargesheet against 4 accused persons named in the first information report on 24.5.1997. The said case, hereinafter referred to as the police case, is pending for trial before Judicial Magistrate, First Class, Chalisgaon. In regard to the same incident which is the subject matter of the trial in the aforesaid Police case, a complaint was filed impleading the Appellant herein besides five other persons as accused. Appellant figures as accused No. 6 in the complaint case and according to the allegation he conspired with other accused in commission of a crime. In this case, hereinafter referred to as the complaint case the Judicial Magistrate took cognizance of the offence and issued process by order dated 2nd February, 1998 against the four accused who were already charge sheeted in the police case and three other accused including the Appellant herein. By an order of the Bombay High Court dated 26th April, 1999 both the criminal cases i.e. police case and complaint case were directed to be tried and decided simultaneously. The Bombay High Court further directed the Magistrate in session of the trial to conclude the trial within stipulated time.
+3. The Appellant filed an application before the learned Magistrate in session of the Police case objecting his examination as witness, inter alia, contending that in view of the Constitutional protection guaranteed under Article 20(3) of the Constitution of India, he cannot be compelled to be a witness in the case as he himself is an accused in relation to the same incident in the complaint case. The learned Magistrate by its order dated 5th September, 2000 allowed the application and observed that the prosecution cannot examine the Appellant as a witness in the Police case. The State of Maharashtra aggrieved by the aforesaid order filed Criminal Revision Application No. 268 of 2000 before the Bombay High Court which by its order dated 27th April, 2001 allowed the application and set aside the order of the learned Magistrate, inter alia, observing that no such blanket protection can be given to the Appellant. Relevant portion of the judgment of the High Court reads as follows:
+10. To sum up, witness Balasaheb @ Ramesh Laxman Deshmukh is not an accused in CC No. 97/96 in spite of accusations against him in the deposition of complainant Charudatta (Esh.142) and admission of complainant dated 26.4.1996 (Exh.143) which are pieces of evidence relevant in C.C. No. 3/98, since he is not charged by the charge framed in that case. Therefore, even if he is compelled to depose as a witness in C.C. No. 97/96 that can not be said to be compulsion to give evidence against himself. Moreover, by virtue of proviso to Section 132 of Indian Evidence Act, he is protected from use of self incriminating statements against him, in any other proceeding including C.C. No. 3/98.
+The blanket protection granted by Magistrate vide his order dated 5.9.2000 can do, therefore, be sustained.
+4. Mr. M.Y. Deshmukh, learned Counsel appearing on behalf of the Appellant contends that the Appellant being an accused in the complaint case cannot be compelled to give evidence against himself in the Police case. It is pointed out that Article 20(3) of the Constitution contemplates that no person, accused of any offence, shall be compelled to be a witness against himself. It is emphasised that the Appellant is not an accused in the Police case but in relation to the same incident in the complaint case he figures as an accused and, therefore, he is entitled to the protection under Article 20(3) of the Constitution. In support of the submission reliance has been placed on a decision of this Court in the case of Ramanal Bhogilal Shah and Anr. v. D.K. Guha and Ors. MANU/SC/0264/1973 : (1973) 1 SCC 696, and our attention has been drawn to paragraph 22 of the judgment which reads as follows:
+22. The Additional Solicitor-General says that the Petitioner had not been specifically named as accused in the first information report and, therefore, he is not entitled to the protection under Article 20(3). We are unable to agree with him in this respect. The Petitioner was the General Manager of the United Commercial Bank and it was alleged in the grounds of arrest that the Petitioner was in charge of, or was responsible to the United Commercial Bank Ltd. for the conduct of the business of the said Bank, and that he failed to prove in course of his statements made under Section 19F before Shri D.K. Guha, Deputy Director of Enforcement that the contravention took place without his knowledge or that he exercised all due diligence to prevent the aforesaid contravention, as required under Section 23C of the Exchange Act.

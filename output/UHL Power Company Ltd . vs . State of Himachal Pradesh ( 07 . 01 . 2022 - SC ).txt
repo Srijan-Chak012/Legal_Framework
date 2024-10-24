@@ -1,0 +1,61 @@
+MANU/SC/0019/2022
+IN THE SUPREME COURT OF INDIA
+Civil Appeal Nos. 10341 and 10342 of 2011
+Decided On: 07.01.2022
+Appellants: UHL Power Company Ltd.
+Vs.
+Respondent: State of Himachal Pradesh
+Hon'ble Judges/Coram:
+N.V. Ramana, C.J.I., A.S. Bopanna and Hima Kohli, JJ.
+Subject: Arbitration
+Catch Words
+Mentioned IN
+Relevant Section:
+Arbitration And Conciliation Act, 1996 - Section 34
+Acts/Rules/Orders:
+Arbitration And Conciliation Act, 1996 - Section 31(7), Arbitration And Conciliation Act, 1996 - Section 34, Arbitration And Conciliation Act, 1996 - Section 34(2), Arbitration And Conciliation Act, 1996 - Section 37
+Cases Referred:
+State of Haryana and Ors. v. S.L. Arora and Co. MANU/SC/0131/2010; Hyder Consulting (UK) Ltd. v. Governor, State of Orissa MANU/SC/1078/2014; MMTC Ltd. v. Vedanta Ltd. MANU/SC/0221/2019; Dyna Technologies Pvt. Ltd. v. Crompton Greaves Ltd. MANU/SC/1765/2019; Parsa Kente Collieries Limited v. Rajasthan Rajya Vidyut Utpadan Nigam Limited MANU/SC/0792/2019; McDermott International Inc. v. Burn Standard Co. Ltd. and Ors. MANU/SC/8177/2006; Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran MANU/SC/0327/2012; National Highways Authority of India v. ITD. Cementation India Limited MANU/SC/0490/2015; Steel Authority of India Ltd. v. Gupta Brother Steel Tubes Ltd. MANU/SC/1624/2009; South East Asia Marine Engineering and Constructions Ltd. v. Oil India Limited MANU/SC/0441/2020; Associated Provincial Picture Houses v. Wednesbury Corporation MANU/UKWA/0002/1947 : (1948) 1 KB 223 (CA); K. Sugumar v. Hindustan Petroleum Corporation Ltd. MANU/SCOR/87221/2018
+Case Category:
+ARBITRATION MATTERS - SLPS CHALLENGING ARBITRATION MATTERS
+Citing Reference:
+
+
+Discussed
+  7
+
+Dissented
+  1
+
+Mentioned
+  2
+
+Relied On
+  1
+
+Case Note:
+Arbitration - Findings of Arbitral Tribunal - Re-appreciation - Sections 34, 37 of the Arbitration and Conciliation Act, 1996 (Act) - Pre-claim interest disallowed - Division Bench by impugned finding held Ld. Single Judge to have exceeded jurisdiction by re-appreciating findings of Tribunal - Hence the present appeal - Whether Ld. Single Judge erred in re-appreciating findings of Tribunal and taking entirely difference view by interpreting terms of subject agreement?
+
+Facts:
+
+The present appeals were preferred against the impugned judgment partly allowing Arbitration Appeal by UHL Power Company Limited under Section 37 of the Act. Other appeal was filed by the State. In effect, both the parties were aggrieved by the impugned judgment.Ld. Sole Arbitrator passed awardin favour of UHL towards expenses claimed along with pre-claim interest and alsocompoundinterest. In the appeal preferred by State under Section 34 of the Act, the learned Single Judge disallowed the entire claim. UHL preferred petition under Section 37 of the Act whereby the Division Bench passed award in favour of UHL. Compound interest was declined. Appeal by State was dismissed. Hence present appeals both by UHL and State.
+
+Held, while partly allowing the Appeal:
+
+The learned Single Judge committed a gross error in re-appreciating the findings returned by the Arbitral Tribunal and taking an entirely different view in respect of the interpretation of the relevant clauses of the Implementation Agreement governing the parties inasmuch as it was not open to the said Court to do so in proceedings under Section 34 of the Arbitration Act, by virtually acting as a Court of Appeal.[14]
+
+The jurisdiction conferred on Courts under Section 34 of the Arbitration Act is fairly narrow, when it comes to the scope of an appeal under Section 37 of the Arbitration Act, the jurisdiction of an Appellate Court in examining an order, setting aside or refusing to set aside an award, is all the more circumscribed.[15]
+
+In the instant case, the interpretation of the relevant clauses of the Implementation Agreement, as arrived at by the learned Sole Arbitrator, are both, possible and plausible. Merely because another view could have been taken, can hardly be a ground for the learned Single Judge to have interfered with the arbitral award. Appellate Court rightly held that the learned Single Judge exceeded his jurisdiction in interfering with the award by questioning the interpretation given to the relevant clauses of the Implementation Agreement, as the reasons given are backed by logic.[21]
+
+Decision of the Appellate Court that restored the findings returned in the arbitral award upheld to the effect that the State of Himachal Pradesh had proceeded to terminate the Implementation Agreement before expiry of the prescribed period which could have been extended up to 24 months, reckoned from the "effective date". In the instant case, the State of H.P. had terminated the Implementation Agreement five months prior to the stipulated period by adopting a distorted interpretation of Clause 4 of the Implementation Agreement, which was impermissible.[22]
+
+Civil Appeal preferred by UHL is partly allowed to the extent mentioned, while Civil Appeal filed by the State of Himachal Pradesh rejected in toto.[23]
+Industry: Power and Energy
+JUDGMENT
+Hima Kohli, J.
+1. Both the present appeals arise from a common judgment dated 24th May, 2011, passed by the High Court of Himachal Pradesh partly allowing Arbitration Appeal No. 2 of 2009 filed by UHL Power Company Limited1 Under Section 37 of the Arbitration and Conciliation Act, 19962. UHL has filed Civil Appeal No. 10342 of 2011 and the State of Himachal Pradesh3 has filed Civil Appeal No. 10342 of 2011, as both the parties are aggrieved by the impugned judgment.
+2. Though several grounds have been taken by UHL in its appeal to assail the impugned judgment, Mr. Jaideep Gupta, learned Senior Counsel for UHL has confined his grievance to the disallowance of the pre-claim interest i.e., interest from the date when expenses were incurred by UHL, till the date of lodging the claim. It may be noted that in terms of the award dated 05th June, 2005, the learned Sole Arbitrator had awarded a sum of ` 26,08,89,107.35p. (Rupees Twenty six crores eight lakhs eighty nine thousand one hundred and seven and thirty five paise) in favour of UHL towards expenses claimed along with pre-claim interest capitalized annually, on the expenses so incurred. Further, compound interest was awarded in favour of UHL @ 9% per annum till the date of claim and in the event the awarded amount is not realized within a period of six months from the date of making the award, future interest was awarded @ 18% per annum on the principal claim with interest.
+3. Dissatisfied with the award, when the State of H.P. filed a petition Under Section 34 of the Arbitration Act, vide judgment dated 16th December, 2008, the learned Single Judge disallowed the entire claim of UHL. The said judgment was challenged by UHL in a petition filed Under Section 37 of the Arbitration Act that has been decided by the impugned judgment whereunder, the Division Bench of the High Court has awarded a sum of ` 9,10,26,558.74 (Rupees Nine crores ten lakhs twenty six thousand five hundred fifty eight and seventy four paise) in favour of UHL, being the actual principal amount along with simple interest @ 6% per annum from the date of filing of the claim, till the date of realization of the awarded amount. For declining payment of compound interest awarded by the learned Sole Arbitrator to UHL, the Division Bench relied on the decision of this Court in State of Haryana v. S.L. Arora and Co. MANU/SC/0131/2010 : (2010) 3 SCC 690, wherein it was held that compound interest can be awarded only if there is a specific contract, or authority under a Statute, for compounding of interest and that there is no general discretion vested in courts or tribunals to award compound interest. It was further held that in the absence of any provision for interest upon interest in the contract, the Arbitral Tribunals do not have the power to award interest upon interest, or compound interest, either for the pre-award period or for the post-award period.
+4. By now, the aforesaid aspect has been set at rest by a three-Judge Bench of this Court in Hyder Consulting (UK) Ltd. v. Governor, State of Orissa through Chief Engineer MANU/SC/1078/2014 : (2015) 2 SCC 189, that has overruled the verdict in the case of S.L. Arora (supra). The majority view is that post-award interest can be granted by an Arbitrator on the interest amount awarded. Writing for the majority, Justice Bobde (as His Lordship then was) has held thus:
+21. In the result, I am of the view that S.L. Arora case [State of Haryana v. S.L. Arora and Co. MANU/SC/0131/2010 : (2010) 3 SCC] is wrongly decided in that it holds that a sum directed to be paid by an Arbitral Tribunal and the reference to the award on the substantive claim does not refer to interest pendente lite awarded on the "sum directed to be paid upon award" and that in the absence of any provision of interest upon interest in the contract, the Arbitral Tribunal does not have the power to award interest upon interest, or compound interest either for the pre-award period or for the post-award period. Parliament has the undoubted power to legislate on the subject and provide that the Arbitral Tribunal may award interest on the sum directed to be paid by the award, meaning a sum inclusive of principal sum adjudged and the interest, and this has been done by Parliament in plain language.

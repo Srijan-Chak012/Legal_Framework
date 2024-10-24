@@ -1,0 +1,82 @@
+MANU/SC/7136/2008
+IN THE SUPREME COURT OF INDIA
+Civil Appeal No. 1289 of 2007
+Decided On: 12.02.2008
+Appellants:Life Insurance Corporation of India and Ors.
+Vs.
+Respondent:Retired L.I.C. Officers Association and Ors.
+Hon'ble Judges/Coram:
+S.B. Sinha and H.S. Bedi, JJ.
+Counsels:
+For Appellant/Petitioner/Plaintiff: P.S. Patwalia, Sr. Adv., S. Rajappa, H. Jairaman, Tania Walia and Devesh Kumar Tripathi, Advs
+For Respondents/Defendant: P.S. Narasimha, Sridhar Potaraju, D. Julius Riamei and Mandakani, Advs.
+Subject: Service
+Catch Words
+Mentioned IN
+Acts/Rules/Orders:
+Life Insurance Corporation Act, 1956 - Section 49
+Cases Referred:
+H.E.C. Voluntary Retired Employees Welfare Society and Anr. v. Heavy Engineering Corporation Ltd. and Ors. MANU/SC/1045/2006; State of A.P. v. A.P. Pensioners Assn. MANU/SC/2516/2005; U.P. Rahavendra Acharya and Ors. v. State of Karnataka and Ors. MANU/SC/8171/2006; State of Andhra Pradesh and Anr. v. A.P. Pensioners' Association and Ors. MANU/SC/2516/2005; State of Tamil Nadu v. Seshachalam MANU/SC/7932/2007; Hukumchand Jute Mills Ltd. v. Labour Appellate Tribunal MANU/WB/0012/1958; Dunichand and Co. v. Narain Das and Co. (1947) 17 Comp. Cas. 195; Indian Bank and Anr. v. N. Venkatramani MANU/SC/7875/2007; Kurmanchal Inst. of Degree and Diploma and Ors. v. Chancellor, M.J.P. Rohilkhand Univ. and Ors. MANU/SC/7699/2007; Kerala Samsthana Chethu Thozhilali Union v. State of Kerala and Ors. MANU/SC/1654/2006; Bombay Dyeing & Mfg. Co. Ltd. v. Bombay Environmental Action Group and Ors. MANU/SC/1197/2006; State of Kerala and Ors. v. Unni and Anr. MANU/SC/8737/2006; State of Orissa and Anr. v. Chakobhai Ghelabhai and Company MANU/SC/0271/1960; Shroff and Co. v. Municipal Corporation of Greater Bombay and Anr. MANU/SC/0318/1988
+Authorities Referred:
+Advanced Law Lexicon 3rd (2005) Edition, Book 2 at 2275
+
+Stroud's Judicial Dictionary
+Prior History:
+From the Judgment and Order dated 29.09.2005 of the High Court of Kerala at Ernakulam in W.A. No. 32 of 2004
+Disposition:
+Appeal Dismissed
+Citing Reference:
+
+
+
+Discussed
+  3
+
+Mentioned
+  11
+
+*Case Note:
+Life Insurance Corporation of India (Staff) Regulation, 1960 - Regulations 51 and 77--Power conferred on the Chairman to fix a date from which revision of pay will apply does not include the matter relating to payment of gratuity which is otherwise governed by Regulation 77--The benefit of revised scale of pay for which a retired employee became entitled, must be taken to be the permanent basic pay, apart from other allowances, if any, which are required to be taken into consideration for the purpose of computation of the amount of gratuity.
+
+Life Insurance Corporation of India filed appeal challenging the judgment of Division Bench of the Kerala High Court. Chairman of L.I.C. by exercising the power under Rule 51 of the L.I.C. of India (Staff) Regulation, 1960 revised the scales of pay of employees with effect from a retrospective date. However, those employees who had retired prior to a particular date, were entitled for gratuity based on the pre-revised scale of pay. The disparity in gratuity was challenged by the retired employees on the ground that such power had not been conferred on the Chairman under Regulation 51. The challenge was upheld by the Division Bench, against which appeal was taken by L.I.C. Hon'ble Supreme Court held that the power to reduce gratuity was not vested with the Chairman under Regulation 51. Dismissing the appeal;
+
+Held:
+
+Method of fixation, eligibility for the benefit of revision and the date from which the revisions shall apply are thus, the only areas within which the Chairman can exercise jurisdiction. The effect of revision of pay scales on other spheres and which are otherwise governed by another statute or other provisions of the said Regulations would not come within the purview thereof. The terminology used "and other matters connected therewith or incidental thereto" must, therefore, be held to have a direct nexus with any one of the aforementioned three elements. The same has nothing to do with the construction of any other provision of the Regulations. The words "incidental to" cannot be interpreted too broadly. It cannot be read independently of the main provision. It cannot serve some other purpose which is not covered by Regulation 51 of the Regulations. It cannot be permitted to encroach upon an area which is not within the jurisdiction of the Chairman of the Corporation. Regulation 77 provides as to how the amount of gratuity is to be calculated. Regulation 51 provides for a rule of measurement. Only because it employed the word "permanent basic pay", the same will not itself lead to the conclusion that once an employee has retired, he would not be entitled to any revision of the amount of gratuity. The Chairman of the Corporation has himself given a retrospective effect to revision in scales of pay. Such a retrospective effect has also been given so as to benefit a class of employees. The employees, irrespective of the fact whether they had superannuated or not, were given the benefit of arrears of pay from 1st August, 1993. By reason of grant of such benefit both to serving employees as also the superannuated employees, both the class of employees became entitled thereto as of right. If by reason thereof, even a retired employee, as on the date of retirement, became entitled to the benefit of the revised scale of pay, the same for all intent and purpose must be taken to be the permanent basic pay, apart from other allowances, if any, which are required to be taken into consideration for the purpose of computation of the amount of gratuity.
+
+(1) (2006) 3 S.C.C. 708; (2) (2006) 9 S.C.C. 630; (3) (2005) 13 S.C.C. 161; (4) (2007) 11 SCALE 239; (5) (2007) 10 SCALE 475--Referred to.
+
+Delegated Legislation--A sub-delegate cannot exercise any power which is not meant to be conferred upon him by reason of statutory provisions.
+
+A delegate must exercise its powers within the four-corners of the statute. The power of a sub-delegate is more restricted. A delegate cannot act in violation of a statute. A sub-delegate cannot exercise any power which is not meant to be conferred upon him by reason of statutory provisions, It must conform not only to the provisions of the Regulations and the Act but also other Parliamentary Acts.
+Ratio Decidendi:
+Effect of revision of pay scales on other spheres and which are otherwise governed by another statute or other provisions of the said Regulations would not come within the purview of the Chairman.
+JUDGMENT
+S.B. Sinha, J.
+1. Jurisdiction of the Chairman of the Life Insurance Corporation of India (Corporation) to issue instructions in terms of Regulation 51 of the Life Insurance Corporation of India Class-I Officers (Revision of Terms and Conditions of Service) Instructions, 1996 is in question in this appeal which arises out of a judgment and order dated 29th September, 1995 passed by a Division Bench of the Kerala High Court in Writ Appeal No. 32 of 2004.
+2. We may notice only the admitted facts herein.
+Respondent No. 1 is an Association of officers who have retired from the services of the appellant-Corporation which is a statutory authority constituted and incorporated under the Life Insurance Corporation Act, 1956.
+During the period of 1st August, 1992 and 31st July, 1994 a revision of scales of pay of the offices and employees of the Corporation took place. Different cut off dates were fixed for grant of different nature of allowances as also pay by the Chairman of the Corporation in purported exercise of his power under Regulation 51 of the Regulations. Whereas 1st April, 1993 was the cut off date for revision of pay; 1st August, 1994 was fixed as the cut off date for the purpose of payment of gratuity on the basis of revised pay. However, so far as those employees who had retired prior to 1st August, 1994 are concerned, they were directed to be entitled to reduce gratuity based on the reduced scale of pay with effect from 1st April, 1993 only. The arrears of pay were directed to be paid only w.e.f. 1st April, 1993.
+3. Indisputably, whereas the Gujarat and Kerala High Court upheld the validity of the instructions issued by the Chairman of the appellant- Corporation, the Karnataka High Court took a different view.
+4. The claim of Respondent No. 1 was allowed in part by a learned Single Judge of the High Court by his order dated 8th July, 2003 holding:
+A reading of Ext.P.3 (instructions issued by the Chairman for supplementary of Revisionist in respect of class I officers and claimed IV will definitely go to show that it cannot operate as far as the claims for gratuity is concerned. It is admitted that at least certain officers, represented by the petitioner Association were deemed as having revised salary from April, 1993 onwards. In that view, at the time of retirement, they were deemed as getting a salary which alone could have been taken notice of for computing gratuity, if Regulation No. 77 has any application. It is definite that the restriction in Ext. P.3 and benevolence in Regulation No. 77 could not have co-existed because the Corporation is offering gratuity at the rate less than the amount an employee had notionally drawn at the time of their respective retirement. It is also pertinent to note that when powers were conferred on the Chairman under Regulation No. 51(2), specific reference was there about the incidents of DA and other allowances. There is no reference to any alteration permissible in respect of gratuity. It leads to the position that the regulation did not permit the Chairman to disturb criterion for gratuity payment by exercise of powers under Regulation No. 51 (2).
+It was further held:
+There was no power on the part of the Bank Management in that case to disturb the settlement, and the gratuity was to be paid on the basis of last drawn pay. Likewise, in the present case, it would not have been permissible for the Chairman to unsettle the benefits that had been spoken to by Regulation No. 77 while issuing Ext.P.3 order.
+5. A Division Bench of the said High Court on an intra court appeal preferred by the appellants herein upheld the said findings.
+6. Mr. Patwalia, learned senior counsel appearing on behalf of the appellants, in support of this appeal, submitted:
+1) Pension and Gratuity having two different concepts, the High Court committed a serious error in holding that the Chairman of the Corporation had no jurisdiction to issue the instructions.
+ii) Sub-regulation (2) of Regulation 51 being of wide amplitude, the jurisdiction of the Chairman to fix cut off dates was not only applicable in respect of pay and allowances covered by Schedule II of the Regulations but also included "gratuity" as envisaged under Regulation 77, as the quantum thereof has a direct nexus with the payment of salary.
+iii) An employer, subject to the applicability of the doctrine of reasonableness and non-arbitrariness, can fix a cut off date for the implementation of the revised pay and allowances.
+iv) The amount of gratuity payable has to be calculated upon the permanent pay and once the gratuity has been paid, no further amount is payable only because the salary has been revised.
+7. Mr. P.S. Narasimha, learned Counsel appearing on behalf of the respondents, on the other hand, contended that the power of the Chairman of the Corporation to issue instructions being limited to Chapter IV of the Regulations, it has no application in relation to the payment of gratuity as provided for in Regulation 77 thereof.
+8. Appellant-Corporation in exercise of its powers conferred upon it by Clauses (b) and (bb) of Sub-section (2) of Section 49 of the Life Insurance Corporation Act, 1956, with the previous approval of the Central Government, made Regulations known as "Life Insurance Corporation of India (Staff) Regulations, 1960 (in short 'the Regulations'). Chapter IV of the said Regulations deal with "Pay and Allowances". Regulation 51 thereof reads as under:
+Scales of Pay:
+51. (1) The scales of pay, dearness allowance and other allowances (wherever payable) applicable to the employees of the Corporation in India shall be as prescribed in Schedule II hereto.
+(1A) The basic pay and other allowance admissible from time to time to an employee belonging to Class II shall be regulated in accordance with the provisions contained in Schedule III.
+(2) Whereas the scales of pay, dearness allowance or other allowances applicable to the employees of the Corporation or any class of them are revised in pursuance of any award, agreement or settlement, or otherwise, the method of fixation of pay in the new scales, the eligibility for the benefit of revision, the date from which the revision shall apply, and other matters connected therewith or incidental thereto shall be regulated by instructions issued by the Chairman in this behalf.
+(Emphasis supplied)
+9. Chapter VII of the said Regulations deals with Miscellaneous Matters. Regulation 76 deals with Provident Fund. Regulation 77 deals with Gratuity. Regulation 78 deals with Superannuation Fund. Regulation 79 deals with Travelling Allowance Rules. There are other provisions also dealing with some other benefits which are to be granted to the employees of the Corporation.
+10. Regulation 51 indisputably confers power upon the Chairman to fix a date from which the revision in pay shall apply. It applies to pay, dearness allowance and other allowances applicable to the employees of the Corporation. The question, as would appear from the discussions made hereinafter, is as to whether the expression "the date from which the revisions shall apply, and other matters connected therewith or incidental thereto", would also include the matter relating to payment of gratuity which is otherwise covered by Regulation 77 thereof.
+11. Although Mr. Patwalia has relied upon a large number of decisions of this Court for the purpose of making a distinction between the terms "pension" and "gratuity" as also the jurisdiction of the employer to fix a cut off date, it may not be necessary to deal with all of them.
+12. We may, however, note some precedents operating in the field. Recently in H.E.C. Voluntary Retired Employees Welfare Society and Anr. v. Heavy Engineering Corporation Ltd. and Ors. MANU/SC/1045/2006 : (2006)IILLJ245SC this Court observed:
+24. In State of A.P. v. A.P. Pensioners Assn. MANU/SC/2516/2005 : AIR2006SC407 this Court categorically held that the financial implication is a relevant criterion for the State Government to determine as to what benefits can be granted pursuant to or in furtherance of the recommendations of a Pay Revision Committee. A' fortiori while taking that factor into account, an employer indisputably would also take into consideration the number of employees to whom such benefit can be extended.
